@@ -1,6 +1,6 @@
 # SCM-Tucum-n
 
-## integrantes del grupo
+## integrantes del grupo: 1
 
 * Gustavo Gravovichi <gustavogravov@gmail.com>
 
